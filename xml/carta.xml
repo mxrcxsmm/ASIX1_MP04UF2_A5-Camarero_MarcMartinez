@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <plato tipo="Entrantes">
+      <nombre>Patatas Bravas y alioli</nombre>
+      <description>Patatas con salsa brava y alioli</description>
+      <precio>4,10€</precio>
+      <calorias>543kcal</calorias>
+      <caracteristicas>
+        <item>img\gluten.png</item>
+        <item>img\huevo.png</item>
+        <item>img\sulfito.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Entrantes">
+      <nombre>Calamares a la Andaluza</nombre>
+      <description>Calamares rebozados al estilo de Andalucía</description>
+      <precio>4,70€</precio>
+      <calorias>198kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Entrantes">
+      <nombre>Croquetas</nombre>
+      <description>Croquetas de cocido caseras</description>
+      <precio>4,50€</precio>
+      <calorias>410kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>
+      <item>img\leche.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Entrantes">
+      <nombre>Ensalada</nombre>
+      <description>Ensalada mixta</description>
+      <precio>3,80€</precio>
+      <calorias>600kcal</calorias>
+      <caracteristicas>
+      
+      </caracteristicas>
+    </plato>
+    <plato tipo="Entrantes">
+      <nombre>Jamón</nombre>
+      <description>Jamón iberico de bellota</description>
+      <precio>4€</precio>
+      <calorias>299kcal</calorias>
+      <caracteristicas>
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Paella Mixta</nombre>
+      <description>Arroz con carne y marisco</description>
+      <precio>9,80€</precio>
+      <calorias>440kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\pescado.png</item>
+      <item>img\molusco.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Canelones</nombre>
+      <description>Canelones caseros con bechamel</description>
+      <precio>8,70€</precio>
+      <calorias>365kcal</calorias>
+      <caracteristicas>
+      <item>img\leche.png</item>
+      <item>img\gluten.png</item>
+      <item>img\soja.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Espaguetis a la Boloñesa</nombre>
+      <description>Espaguetis con carne picada y tomate</description>
+      <precio>10,30€</precio>
+      <calorias>300kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      <item>img\huevo.png</item>      
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Caldo gallego</nombre>
+      <description>Caldo al estilo gallego</description>
+      <precio>8€</precio>
+      <calorias>771kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>      
+      </caracteristicas>
+    </plato>
+    <plato tipo="1r Plato">
+      <nombre>Cocido</nombre>
+      <description>Cocido al estilo madrileño</description>
+      <precio>8,10€</precio>
+      <calorias>746kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Carnes">
+      <nombre>Pechuga</nombre>
+      <description>Pechuga de pollo (x Ud.) y patatas fritas</description>
+      <precio>5,20€</precio>
+      <calorias>484kcal</calorias>
+      <caracteristicas>
+      <item>img\sulfito.png</item>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Carnes">
+      <nombre>Secreto</nombre>
+      <description>Bistec de secreto ibérico con patatas fritas</description>
+      <precio>8,90€</precio>
+      <calorias>768kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Carnes">
+      <nombre>Chuletas de cerdo</nombre>
+      <description>Chuletas de cerdo con guarnición</description>
+      <precio>5,40€</precio>
+      <calorias>502kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Carnes">
+      <nombre>Entraña</nombre>
+      <description>Entraña a la parrilla argentina con guarnición (1kg)</description>
+      <precio>12,50€</precio>
+      <calorias>318kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Carnes">
+      <nombre>Chuletón</nombre>
+      <description>Chuletón de ternera con guarnición (1.250g)</description>
+      <precio>35€</precio>
+      <calorias>3.375kcal</calorias>
+      <caracteristicas>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Sorbete de limon</nombre>
+      <description>Sorbete de limón</description>
+      <precio>3,30€</precio>
+      <calorias>62kcal</calorias>
+      <caracteristicas><item>img\leche.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Tarta de queso</nombre>
+      <description>Tarta de queso casera con base de galleta</description>
+      <precio>4,50€</precio>
+      <calorias>400kcal</calorias>
+      <caracteristicas>
+      <item>img\leche.png</item>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Pan de Calatrava</nombre>
+      <description>Pan de Calatrava casero</description>
+      <precio>5€</precio>
+      <calorias>416kcal</calorias>
+      <caracteristicas><item>img\leche.png</item><item>img\gluten.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Crema catalana</nombre>
+      <description>Crema catalana con azucar caramelizado</description>
+      <precio>3,20€</precio>
+      <calorias>100kcal</calorias>
+      <caracteristicas><item>img\leche.png</item></caracteristicas>
+    </plato>
+    <plato tipo="Postres">
+      <nombre>Pudding</nombre>
+      <description>Pudding casero con nata montada y helado</description>
+      <precio>5,50€</precio>
+      <calorias>450kcal</calorias>
+      <caracteristicas>
+      <item>img\leche.png</item>
+      <item>img\soja.png</item>
+      <item>img\gluten.png</item>
+      </caracteristicas>
+    </plato>
+</Menu>
